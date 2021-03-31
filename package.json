@@ -13,7 +13,7 @@
     "build-storybook": "build-storybook -s ./public"
   },
   "dependencies": {
-    "next": "9.4.4",
+    "next": "10.1.2",
     "next-pwa": "^5.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
